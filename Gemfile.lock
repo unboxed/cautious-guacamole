@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (2.0.5)
+    rack-contrib (2.0.1)
+      rack (~> 2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rack
+  rack-contrib
+
+BUNDLED WITH
+   1.16.4
